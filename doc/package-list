@@ -1,0 +1,9 @@
+automation.core.api
+automation.core.base
+automation.core.driver
+automation.core.utils
+automation.data
+automation.data.excel
+automation.data.hibernate
+automation.data.models
+automation.logging.log4j
